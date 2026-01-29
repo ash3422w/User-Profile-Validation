@@ -73,4 +73,14 @@ final status of the user profile.
 - Mobile: 9622949937  
 - Age: 29  
 
-**Output:**User Profile Is VALID
+Output:User Profile Is VALID
+
+### Test Case 2
+**Input:**
+- Full Name: Yasir  
+- Email: yasirgmail.com  
+- Mobile: 0876543210  
+- Age: 17  
+
+Output:User Profile Is INVALID
+
